@@ -1,4 +1,4 @@
-# dio-primeiro-repositorio
+# dio-primeiro-repositori
 Desafio: criar um repositório no GitHub
 
 ##Links úteis para todos
